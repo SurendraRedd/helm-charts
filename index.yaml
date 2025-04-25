@@ -3,6 +3,16 @@ entries:
   exampleapp:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2025-04-25T23:46:02.318393685Z"
+    description: A Helm chart for Kubernetes
+    digest: ac4de2859eb25f4f5aa9c023d18f901443cb227b04c199fc14ad1927806d1244
+    name: exampleapp
+    type: application
+    urls:
+    - https://github.com/SurendraRedd/helm-charts/releases/download/exampleapp-0.8.0/exampleapp-0.8.0.tgz
+    version: 0.8.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2025-04-25T23:22:22.983226228Z"
     description: A Helm chart for Kubernetes
     digest: 1afee500fdcdcf1e7c0ad071357c631d26b96b9f2d3acba62ce8060ee371487f
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/SurendraRedd/helm-charts/releases/download/exampleapp-0.7.0/exampleapp-0.7.0.tgz
     version: 0.7.0
-generated: "2025-04-25T23:22:22.983231027Z"
+generated: "2025-04-25T23:46:02.318406378Z"
